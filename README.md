@@ -1,8 +1,12 @@
-# React + Vite
+# Chatbot Using React JS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un simple chatbot creado con React JS.
 
-Currently, two official plugins are available:
+Se usa la APi de [Chat gpt free](https://rapidapi.com/airaudoeduardo/api/chat-gtp-free/), de [RapidApi](https://rapidapi.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Esta rama contiene los archivos JSX, y la rama gh-pages contiene los arcgivos listos para el deploy. 
+
+## Autor
+
+- Frontend Mentor - [@MoisalexWeb](https://www.frontendmentor.io/profile/moisalexweb)
+- Instagram - [@moisalexweb_sw](https://www.instagram.com/moisalexweb_sw/)
