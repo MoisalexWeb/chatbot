@@ -1,0 +1,34 @@
+.bot-response {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    align-items: center;
+    grid-gap: 8px;
+    padding-right: 60px;
+}
+
+.bot__figure {
+    background-color: #0665f5;
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    border-radius: 8px;
+    align-self: flex-end;
+}
+
+.bot__figure-img {
+    width: 100%;
+}
+
+.bot-text {
+    flex: 1;
+    background-color: #f2f2f2;
+    padding: 8px 12px;
+    border-radius: 6px 2px;
+}
+
+
+@media screen and (max-width: 550px) {
+    .bot-response {
+        padding-right: 40px;
+    }
+}
